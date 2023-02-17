@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tarun!
-- 👀 I've recently discovered the joy in coding and really enjoy creating new applications/projects (useful or not is a whole different story, but fun indeed!)
+- 👀 I've recently discovered the joy in coding and really enjoy creating new applications/projects
 - 🌱 I’m currently studying in NTU Computer Science
 - 💞️ Look out for my future projects here :))
 <!---
